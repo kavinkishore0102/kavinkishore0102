@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Kavin Kishore</h1>
 <h3 align="center">Aspiring Software Engineer | Web Dev Enthusiast </h3>
 
@@ -10,12 +9,11 @@
 </p>
 
 ---
-<a herf= "https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15">
----
+
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. at **Bannari Amman Institute of Technology**
-- 💼 Currently working as a **Backend Developer Intern at [Conversight]([https://www.conversight.ai/](https://conversight.ai/))**  
+- 💼 Currently working as a **Backend Developer Intern at [Conversight](https://conversight.ai/)**  
 - 🏢 Former Intern at **Bosch Limited** – focused on cost estimation and system design
 - 🛠 Passionate about building smart, clean, and impactful applications
 
@@ -56,15 +54,13 @@
 
 ---
 
-
 ### 🔗 Let's Connect
 
 - 📧 [Email Me](mailto:kavinkishore0102@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kavin-kishore-b107b8257/)  
-- 🧠 [LeetCode](https://leetcode.com/u/kavinkishoreSG/)  
+- � [LeetCode](https://leetcode.com/u/kavinkishoreSG/)  
 - 🐙 [GitHub](https://github.com/kavinkishore0102)
 
 ---
 
-> _“Code is not just about syntax — it's about solving real-world problems that matter.”_
-
+> _"Code is not just about syntax — it's about solving real-world problems that matter."_
