@@ -10,7 +10,8 @@
 </p>
 
 ---
-
+https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15
+---
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. at **Bannari Amman Institute of Technology**
