@@ -48,10 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinkishore0102&layout=compact&theme=gruvbox" />
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kavinkishoreSG?ext=heatmap" alt="LeetCode Stats" />
-</p>
-
 ---
 
 ### 🔗 Let's Connect
