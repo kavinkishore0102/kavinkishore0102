@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavin Kishore</h1>
-<h3 align="center">Aspiring Software Engineer | Web Dev Enthusiast </h3>
+<h3 align="center">Backend Engineer (SDE) | Go · Python · Microservices · NATS · Distributed Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavin-kishore-b107b8257/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
@@ -12,10 +12,24 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.E. at **Bannari Amman Institute of Technology**
-- 💼 Currently working as a **Backend Developer Intern at [Conversight](https://conversight.ai/)**  
-- 🏢 Former Intern at **Bosch Limited** – focused on cost estimation and system design
-- 🛠 Passionate about building smart, clean, and impactful applications
+- 💼 **Product Engineer at [ConverSight.ai](https://conversight.ai/)**: backend microservices in Go and Python (joined as an intern in Feb 2025, full-time since Jun 2026)
+- 🎓 B.E. Computer Science, **Bannari Amman Institute of Technology** (2026)
+- 🏢 Former Automotive Solution Developer Intern at **Bosch Limited**
+
+### 🚀 What I've Built in Production
+
+- 🔀 Migrated the Insights Scheduler from **RabbitMQ to NATS**, giving high-throughput event-driven processing with no message loss under load
+- 🔭 Added **OpenTelemetry distributed tracing** across microservices so every request path can be followed end to end
+- 🔒 Fixed a critical **SQL injection** vulnerability with parameterized queries and input validation
+- ⚡ Rebuilt **ArangoDB** query execution as batch pipelines, fixing cursor timeout failures at scale
+- 🤖 Built a **RAG-powered Slack bot** with Redis semantic search that cut issue lookup from hours to seconds
+- 🎯 Resolved **180+ production tickets** across 10+ platform domains with a 90% close rate
+
+### 📂 Featured Projects
+
+- **[SkillBridge](https://github.com/kavinkishore0102/SkillBridge)**: student–company platform with a Go (GORM) + MySQL REST backend and a React frontend
+- **[TrendSpy](https://github.com/kavinkishore0102/Product_Trend)**: Go service that analyzes Amazon product data for market trends
+- **[TravelSwap](https://github.com/kavinkishore0102/ticketreselling)**: Django ticket-reselling platform with price verification and auth flows
 
 ---
 
@@ -23,28 +37,28 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" title="Qt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
 </p>
+
+<p align="center"><b>Also:</b> NATS · RabbitMQ · ArangoDB · OpenTelemetry · REST APIs · Event-Driven Architecture · Postman</p>
 
 ---
 
-
 ### 🔗 Let's Connect
 
-- 📧 [Email Me](mailto:kavinkishore0102@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kavin-kishore-b107b8257/)  
-- � [LeetCode](https://leetcode.com/u/kavinkishoreSG/)  
-- 🐙 [GitHub](https://github.com/kavinkishore0102)
+- 📧 [Email Me](mailto:kavinkishore0102@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kavin-kishore-b107b8257/)
+- 🧩 [LeetCode](https://leetcode.com/u/kavinkishoreSG/)
 
 ---
 
